@@ -16,6 +16,7 @@ Scientific data analysis
 Translational research
 
 **Featured Projects**
+
 TYK2 Drug Discovery
 
 Coming soon
