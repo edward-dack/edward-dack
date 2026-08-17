@@ -1,16 +1,39 @@
-## Hi there 👋
+**Edward Dack**
 
-<!--
-**edward-dack/edward-dack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Medical Sciences graduate specialising in Pharmacology & Therapeutics, with an interest in computational drug discovery, AI/ML and translational research.
 
-Here are some ideas to get you started:
+**About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Medical Sciences graduate with a background in Pharmacology and Therapeutics, interested in applying computational and data-driven approaches to drug discovery and biomedical research.
+
+I am currently developing my skills in Python, data analysis, machine learning and computational drug discovery alongside my postgraduate studies at Queen Mary University of London.
+
+**Current Focus**
+Computational drug discovery
+Pharmacology and therapeutics
+Artificial intelligence and machine learning
+Scientific data analysis
+Translational research
+
+**Featured Projects**
+TYK2 Drug Discovery
+
+Coming soon
+
+A computational investigation of TYK2-targeting compounds, exploring the application of computational and data-driven approaches to drug discovery.
+
+**Education**
+
+Queen Mary University of London
+MSc — Artificial Intelligence for Drug Discovery
+2026–2027
+
+University of Exeter
+BSc Medical Sciences (Pharmacology & Therapeutics)
+First Class Honours
+
+**Currently Learning**
+
+**Python Machine Learning Data Analysis Computational Drug Discovery**
+
+More projects coming throughout my MSc.
