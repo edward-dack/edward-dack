@@ -34,6 +34,6 @@ First Class Honours
 
 **Currently Learning**
 
-**Python Machine Learning Data Analysis Computational Drug Discovery**
+Python | Machine Learning | Data Analysis | Computational Drug Discovery
 
 More projects coming throughout my MSc.
