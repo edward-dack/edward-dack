@@ -9,6 +9,7 @@ I am a Medical Sciences graduate with a background in Pharmacology and Therapeut
 I am currently developing my skills in Python, data analysis, machine learning and computational drug discovery alongside my postgraduate studies at Queen Mary University of London.
 
 **Current Focus**
+
 Computational drug discovery
 Pharmacology and therapeutics
 Artificial intelligence and machine learning
