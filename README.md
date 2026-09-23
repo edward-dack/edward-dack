@@ -1,41 +1,39 @@
-**Edward Dack**
+# Edward Dack
 
-Medical Sciences graduate specialising in Pharmacology & Therapeutics, with an interest in computational drug discovery, AI/ML and translational research.
+Medical Sciences graduate (Pharmacology & Therapeutics) working on computational
+drug discovery — currently MSc AI for Drug Discovery at Queen Mary University of London.
 
-**About Me**
+## Featured project
 
-I am a Medical Sciences graduate with a background in Pharmacology and Therapeutics, interested in applying computational and data-driven approaches to drug discovery and biomedical research.
+### [TYK2 in Ankylosing Spondylitis](https://github.com/edward-dack/tyk2-as-drug-discovery)
 
-I am currently developing my skills in Python, data analysis, machine learning and computational drug discovery alongside my postgraduate studies at Queen Mary University of London.
+A reproducible pipeline assessing whether TYK2 is a credible target in ankylosing
+spondylitis, built from ChEMBL and Open Targets data.
 
-**Current Focus**
+- Found that TYK2's high target-association score for AS rests on **clinical precedent
+  for pan-JAK drugs, not AS genetics** — a caveat the headline score hides
+- Identified that **37% of published TYK2 potency data** is patent-derived range values,
+  which silently corrupt selectivity calculations if used naively
+- Built QSAR models validated under scaffold-grouped splits (RMSE 0.73 vs 0.66
+  experimental noise), showing where fingerprint models stop generalising
+- Validated the candidate filters by recovering deucravacitinib, the only approved
+  TYK2-selective drug, without special handling
 
-Computational drug discovery
-Pharmacology and therapeutics
-Artificial intelligence and machine learning
-Scientific data analysis
-Translational research
+*Python · RDKit · scikit-learn · pandas*
 
-**Featured Projects**
+## Interests
 
-TYK2 Drug Discovery
+- Computational drug discovery and cheminformatics
+- Pharmacology and therapeutics
+- Machine learning applied to biomedical data
+- Translational research
 
-Coming soon
+## Education
 
-A computational investigation of TYK2-targeting compounds, exploring the application of computational and data-driven approaches to drug discovery.
+**Queen Mary University of London** — MSc, Artificial Intelligence for Drug Discovery (2026–2027)
 
-**Education**
+**University of Exeter** — BSc Medical Sciences (Pharmacology & Therapeutics), First Class Honours
 
-Queen Mary University of London
-MSc — Artificial Intelligence for Drug Discovery
-2026–2027
+---
 
-University of Exeter
-BSc Medical Sciences (Pharmacology & Therapeutics)
-First Class Honours
-
-**Currently Learning**
-
-Python | Machine Learning | Data Analysis | Computational Drug Discovery
-
-More projects coming throughout my MSc.
+More projects throughout my MSc.
