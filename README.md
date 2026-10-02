@@ -5,8 +5,7 @@ drug discovery — currently MSc AI for Drug Discovery at Queen Mary University 
 
 ## Featured project
 
-### [TYK2 in Ankylosing Spondylitis](https://github.com/edward-dack/tyk2-as-drug-discovery)
-
+### [TYK2 in Ankylosing Spondylitis](https://github.com/edward-dack/tyk2-drug-discovery)
 A reproducible pipeline assessing whether TYK2 is a credible target in ankylosing
 spondylitis, built from ChEMBL and Open Targets data.
 
